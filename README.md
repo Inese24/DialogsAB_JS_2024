@@ -6,4 +6,5 @@ Klades aizpildīšana
 .....  
 ....  
 Veiksmīgi sakonfigurēju abas sistēmas
-> Teksta citēšana
+> Teksta citēšana. Milda Grīnfelde: "Šī grāmatu "apsēstība" bija dzinējspēks Miķeļa Goppera, manuprāt, otrai spilgtākai īpašībai: neatlaidībai"
+`#0969DA`
