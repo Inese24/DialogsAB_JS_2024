@@ -6,7 +6,8 @@ Klades aizpildīšana
 ## Grāmatizdevējs Miķelis Goppers  
 Viena no gaišākajām lappusēm latviešu grāmatniecības vēsturē ir apgāds "Zelta Ābele" ar savām izcili skaistajām neliela formāta grāmatām.
 
-Saites [Leģendāro "Zelta Ābeli" pieminot] (https://www.la.lv/legendaro-zelta-abeli-pieminot)  
+This site was built using [Leģendāro "Zelta Ābeli" pieminot"](https://pages.github.com/).
+
 
 > Teksta citēšana. Milda Grīnfelde: "Šī grāmatu "apsēstība" bija dzinējspēks Miķeļa Goppera, manuprāt, otrai spilgtākai īpašībai: neatlaidībai".
 `#0969DA`
