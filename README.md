@@ -11,3 +11,5 @@ Saites [Leģendāro "Zelta Ābeli" pieminot] (https://www.la.lv/legendaro-zelta-
 > Teksta citēšana. Milda Grīnfelde: "Šī grāmatu "apsēstība" bija dzinējspēks Miķeļa Goppera, manuprāt, otrai spilgtākai īpašībai: neatlaidībai".
 `#0969DA`
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
