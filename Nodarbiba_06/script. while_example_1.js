@@ -1,4 +1,4 @@
-//https:/// https://www.w3schools.com/js/tryit.asp?filename=tryjs_while
+//https://www.w3schools.com/js/tryit.asp?filename=tryjs_while
 
 let text = "";
 let i = 0;
