@@ -1,3 +1,4 @@
+<!-- Attēlus var pievienot no onedrive bez saglabāšanas datorā. Tikai nedrīkst mainīt vietu (onedrive mapi, tās atrašanās vietu). Obligāti jāsaglabā attēla atrašanās vietas/ ceļa adrese -->
 <!DOCTYPE html>
 <html>
 <body>
