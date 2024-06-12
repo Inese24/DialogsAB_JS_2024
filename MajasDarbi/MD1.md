@@ -1,5 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
 
-<picture>
-<img alt="Mainīgais var." src="C:\Users\germa\Downloads\DialogsAB_JS_I\DialogsAB_JS_2024\MajasDarbi\var-value.jpg">
-https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/MD1.md
-</picture>
+<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160718&authkey=%21APf-_ixswDc-U-A&width=647&height=17" width="647" height="17" />
+
+</body>
+</html>
