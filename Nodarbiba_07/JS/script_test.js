@@ -1,4 +1,5 @@
 // 1.piemērs     view-source:https://www.w3schools.com/js/tryit.asp?filename=tryjs_functions
+// browserResize funkcija, () ir tukšas; funciju aprakstošās atvrerošā un aizverošā {} iekavas svarīgas.
 
 function browserResize() {
     var afterResize = window.innerWidth;
