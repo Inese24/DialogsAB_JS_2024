@@ -9,11 +9,11 @@
 
 * Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
 
-##### ar mainīgo izmantošanu
+### Ar mainīgo izmantošanu
 
-* Mainīgā `var` izmantošanas iespējas
+* Mainīgā `var` izmantošanas piemēri
 <picture>
-<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160718&authkey=%21APf-_ixswDc-U-A&width=647&height=17" alt="Mainīgā var izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/var_value1.png" alt="Mainīgā var izmantošanas piemērs." /> 
 </picture>
 
 <picture>
@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png" alt="Mainīgā const izmantošanas piemērs." />
 </picture>
 
-##### ar masīvu izmantošanu
+### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
 * Masīva izmantošanas piemērs
 <picture>
 <img alt= "Masīva izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png">
@@ -39,20 +39,7 @@
 
 
 
-##### vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
+### Ar nosacījuma operatora (if) izmantošanu
 
 
-##### ar nosacījuma operatora (if) izmantošanu
-
-
-##### ar pārslēgšanas operatora (switch) izmantošanu
-
-
-
-
-
-
-
-
-</body>
-</html>
+### Ar pārslēgšanas operatora (switch) izmantošanu
