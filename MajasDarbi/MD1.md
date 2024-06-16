@@ -13,12 +13,8 @@
 
 <picture>
 <img alt="Mainīgā var izmantošanas piemērs." src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160718&authkey=%21APf-_ixswDc-U-A&width=647&height=17" />
-
 <img alt="Mainīgā var izmnaotšanas piemērs." src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160719&authkey=%21ANnWqpJZ6ot-tm0&width=662&height=51" />
-
 <img alt="Mainīgā let izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/let1.png" />
-
-
 <img alt="Mainīgā const piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png" />
 
 </picture>
