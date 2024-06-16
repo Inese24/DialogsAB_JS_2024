@@ -10,18 +10,19 @@
 * Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
 ##### ar mainīgo izmantošanu
 
-<img alt= "Mainīgā let izmantošanas piemērs." src=
-//raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/let1.png />
+<picture>
+<img alt= "Mainīgā let izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/let1.png" />
 
 
-
-<img alt= "Mainīgā const piemērs." src=
-//raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png />
+<img alt= "Mainīgā const piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png" />
+</picture>
 
 ##### ar masīvu izmantošanu
 
-<img alt= "Masīva izmantošanas piemērs." src=//raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png />
+<picture>
+<img alt= "Masīva izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png" />
 
+</picture>
 
 
 
