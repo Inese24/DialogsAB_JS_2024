@@ -12,7 +12,7 @@
 ##### ar mainīgo izmantošanu
 
 <picture>
-<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160718&authkey=%21APf-_ixswDc-U-A&width=647&height=17" alt="Mainīgā var izmantošanas piemērs." />
+<!--<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160718&authkey=%21APf-_ixswDc-U-A&width=647&height=17" alt="Mainīgā var izmantošanas piemērs." /> -->
 
 <img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160719&authkey=%21ANnWqpJZ6ot-tm0&width=662&height=51" alt="Mainīgā var izmantošanas piemērs." />
 
