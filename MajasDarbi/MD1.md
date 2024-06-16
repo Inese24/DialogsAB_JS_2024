@@ -11,6 +11,7 @@
 
 ##### ar mainīgo izmantošanu
 
+* Mainīgā `var` izmantošanas iespējas
 <picture>
 <!--<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160718&authkey=%21APf-_ixswDc-U-A&width=647&height=17" alt="Mainīgā var izmantošanas piemērs." /> -->
 
