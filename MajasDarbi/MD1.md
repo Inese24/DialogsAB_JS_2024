@@ -1,6 +1,7 @@
 <!-- Attēlus var pievienot no onedrive bez saglabāšanas datorā. Tikai nedrīkst mainīt vietu (onedrive mapi, tās atrašanās vietu). Obligāti jāsaglabā attēla atrašanās vietas/ ceļa adrese -->
-# Inese Germane
-## Mājas darbs 1
+# DialogsAB_JS_2024
+## Inese Germane
+### Mājas darbs 1
 ### Uzdevumi:
 * Repozitorijā izveidot papildu mapi - MajasDarbi.
 
@@ -9,8 +10,19 @@
 * Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
 ##### ar mainīgo izmantošanu
 
+<img alt= "Mainīgā let izmantošanas piemērs." src=
+//raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/let1.png />
+
+
+
+<img alt= "Mainīgā const piemērs." src=
+//raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png />
 
 ##### ar masīvu izmantošanu
+
+<img alt= "Masīva izmantošanas piemērs." src=//raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png />
+
+
 
 
 ##### vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
