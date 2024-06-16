@@ -21,3 +21,6 @@ let symbolToFind = 'b';
 
 console.log(indexOf(text, symbolToFind));
 // atsauce uz pasaulē eksitējošu scrpitu bibliotēku
+
+const myText = "I am a string";
+const newString = myText.replace("string", "sausage");
