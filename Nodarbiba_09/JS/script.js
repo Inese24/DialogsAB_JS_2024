@@ -33,7 +33,7 @@ console.log(window.innerWidth);
 //window.open("file:///C:/Users/some.html", "local");
 //window.focus();
 
-
+/*
 let jsWindow = window.open(
     //"https://rtu.lv",
     "http://127.0.0.1:5500/Nodarbiba_08/index.html",
@@ -46,5 +46,30 @@ setTimeout(() => {
 }, 3000);
 
 setTimeout(() => {
+    jsWindow.moveBy(20,-50);
+}, 4000);
+
+
+setTimeout(() => {
     jsWindow.close();
-}, 6000);
+}, 10000);
+*/
+/*
+setTimeout(() => {
+    alert('2 seconds has been passed!')
+}, 2000);
+
+setTimeout(() => {
+    alert('1 second has been passed!')
+}, 1000);
+*/
+
+let result_c = confirm('Vai dzēst izvēlēto saturu?');
+let message_c = result_c ? 'Jūs teicāt - jā' : 'Jūs teicāt - nē';
+alert(message_c);
+
+let result_p = prompt('Ievadiet šī gada numuru:','2024');
+let message_p = result_p ? 'Šobrīd ir '+result_p+'. gads' : '???. gads';
+alert(message_p);
+
+console.log(result_p * result_p);
