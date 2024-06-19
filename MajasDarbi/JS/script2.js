@@ -5,7 +5,8 @@
     !function(){
         "use strict";
     var e={ },t={ };
-    function n(o){var i=t[o];
+    function n(o){
+        var i=t[o];
     if(void 0!==i)return i.exports;
     var r=t[o]={exports:{ }};
     return e[o](r,r.exports,n),r.exports
@@ -31,10 +32,12 @@
 }
     (e);
     return t
-} }
+}}
     );
     return n[e]=o,o
-} }
+}}
+
+
 
     let i, r, s, a;
     function c() {
@@ -93,8 +96,8 @@
     if (o) {
                             const t = o.split("=");
     if (t[1]) return e + (e.indexOf("?") < 0 ? "?" : "&") + n + t[1]
-                        }
-    return e
+                        } 
+                        return e
                     }
     (t))
                 }
