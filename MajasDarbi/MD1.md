@@ -14,7 +14,7 @@
 * Mainīgā `var` izmantošanas piemēri
 
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const_1.png" alt="Mainīgā `var` izmantošanas piemērs." />
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const_1.png" alt="Mainīgā `var` izmantošanas piemērs." /> 
 </picture>
 
 * Mainīgā `let` izmantošanas piemērs
@@ -77,7 +77,8 @@
 ### Ar pārslēgšanas operatora (switch) izmantošanu
 <p> Pārslēgšanas operarora `switch` izmantošanas piemērs. </p>
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_push.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
 </picture>
 
-https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch.png
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch_1.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
+</picture>
