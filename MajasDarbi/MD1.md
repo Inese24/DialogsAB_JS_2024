@@ -12,8 +12,9 @@
 ### Ar mainīgo izmantošanu
 
 * Mainīgā `var` izmantošanas piemēri
+
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/var_value1.png" alt="Mainīgā var izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const_1.png" alt="Mainīgā `var` izmantošanas piemērs." />
 </picture>
 
 <picture>
@@ -32,10 +33,24 @@
 
 ### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
 * Masīva izmantošanas piemērs
+<p> Piemēri no vietnes https://www.msn.com/en-xl
 <picture>
 <img alt= "Masīva izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png">
 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/var_value1.png" alt="Masīva izmantošanas piemērs." /> 
+
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivi.png" alt="Masīva izmantošanas piemērs." /> 
+
+<p> Masīva `find` izmantošanas piemērs. </p>
+<picture>
+<img src="https://github.com/Inese24/DialogsAB_JS_2024/blob/main/MajasDarbi/Images/MajasDarbi_01/masivs_find.png?raw=true" alt="Masīva `find` izmantošanas piemērs." /> 
 </picture>
+
+<p> Masīva `forEach` izmantošanas piemērs. </p>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_forEach.png" alt="Masīva `forEach` izmantošanas piemērs." /> 
+</picture>
+</p>
 
 
 
