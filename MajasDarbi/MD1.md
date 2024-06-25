@@ -29,7 +29,7 @@
 
 ### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
 * Masīva izmantošanas piemērs
-<p> Piemēri no vietnes https://www.msn.com/en-xl
+<p> Piemēri no vietnes https://www.msn.com/en-xl </p>
 <picture>
 <img alt= "Masīva izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png">
 </picture>
