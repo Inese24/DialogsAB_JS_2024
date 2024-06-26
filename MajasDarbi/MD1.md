@@ -14,7 +14,7 @@
 * Mainīgā `var` izmantošanas piemēri
 
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const_1.png" alt="Mainīgā `var` izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/mainigais_var.png" alt="Mainīgā `var` izmantošanas piemērs." /> 
 </picture>
 
 * Mainīgā `let` izmantošanas piemērs
@@ -22,9 +22,13 @@
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/let1.png" alt="Mainīgā let izmantošanas piemērs." />
 </picture>
 
-* Mainīgā`const` izmantošanas piemērs
+* Mainīgā`const` izmantošanas piemēri
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png" alt="Mainīgā const izmantošanas piemērs." />
+</picture>
+
+ <picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const_1.png" alt="Mainīgā `var` izmantošanas piemērs." /> 
 </picture>
 
 ### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem

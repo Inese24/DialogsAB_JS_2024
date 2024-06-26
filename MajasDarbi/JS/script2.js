@@ -96,8 +96,8 @@
     if (o) {
                             const t = o.split("=");
     if (t[1]) return e + (e.indexOf("?") < 0 ? "?" : "&") + n + t[1]
-                        } 
-                        return e
+                        }
+    return e
                     }
     (t))
                 }
@@ -108,7 +108,8 @@
         return decodeURIComponent(e)
     }
     catch (e) { }
-} function u(e, t) {
+}
+    function u(e, t) {
     if (!e) return null;
     if (t) return p(e);
     if (!s) {
