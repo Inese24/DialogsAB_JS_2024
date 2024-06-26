@@ -24,6 +24,10 @@
 
 * Mainīgā`const` izmantošanas piemēri
 <picture>
+<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160965&authkey=%21APAPNBKomwaZtYU&width=739&height=37" width="739" height="37" alt="Mainīgā const izmantošanas piemērs." />
+</picture>
+
+<picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png" alt="Mainīgā const izmantošanas piemērs." />
 </picture>
 
@@ -85,4 +89,8 @@
 </picture>
 
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch_1.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
+</picture>
+
+<picture>
+<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160963&authkey=%21AMLfC8P8lbmRbj0&width=1168&height=124" width="1168" height="124" />
 </picture>
