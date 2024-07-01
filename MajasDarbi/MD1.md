@@ -98,9 +98,8 @@
 
 ### Ar funkcijas definēšanu (anonīmas funkcijas nosaukšana ar piešķiršanu)
 <p> Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) piemērs. </p>
-<picture> 
-<img src=""
-</picture>
+<picture>  
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas%20defin%C4%93%C5%A1ana%20un%20pie%C5%A1%C4%B7ir%C5%A1ana.jpg"  alt="Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) piemērs."/>  </picture>
 
 
 /*<picture>
