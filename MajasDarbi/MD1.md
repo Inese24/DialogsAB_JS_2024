@@ -94,3 +94,11 @@
 <picture>
 <img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160963&authkey=%21AMLfC8P8lbmRbj0&width=1168&height=124" width="1168" height="124" />
 </picture>
+
+
+### Ar funkcijas definēšanu (anonīma funkcija)
+<p> Funkcijasdefinēšanas (anonīmas funkcijas) piemērs. </p>
+<picture>
+ <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/anon%C4%ABma%20funkcija.png" 
+  </picture>
+
