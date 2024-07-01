@@ -96,9 +96,14 @@
 </picture>
 
 
-### Ar funkcijas definēšanu (anonīma funkcija)
-<p> Funkcijasdefinēšanas (anonīmas funkcijas) piemērs. </p>
-<picture>
+### Ar funkcijas definēšanu (anonīmas funkcijas nosaukšana ar piešķiršanu)
+<p> Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) piemērs. </p>
+<picture> 
+<img src=""
+</picture>
+
+
+/*<picture>
  <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/anon%C4%ABma%20funkcija.png" 
-  </picture>
+  </picture>*/
 
