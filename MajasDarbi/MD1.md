@@ -94,22 +94,3 @@
 <picture>
 <img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160963&authkey=%21AMLfC8P8lbmRbj0&width=1168&height=124" width="1168" height="124" />
 </picture>
-
-
-### Ar funkcijas definēšanu (anonīmas funkcijas nosaukšana ar piešķiršanu)
-<p> Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) piemērs.<br>
-Anonīma funkcija, kas tiek piešķira mainīgajam `c`: <br>
- `var c = function () { <br>
- c.q.push(arguments);`.<br>
-Funkcijai ir pievienota īpašība `q` un arguments `push`. īpašība `q` tiek inicializēta kā tukšs masīvs: <br>
- `c.q = []`
-Globālā objekta `window` īpašībai `Canny` piešķir funkciju `c`: <br>
- `(w.Canny = c)`,
-</p>
-<picture>  
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas%20defin%C4%93%C5%A1ana%20un%20pie%C5%A1%C4%B7ir%C5%A1ana.jpg"  alt="Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) piemērs."/>  </picture>
-<p> Piemērs ņemts no vietnes https://app.genially.com/ </p>
-
-/* <picture>  <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/anon%C4%ABma%20funkcija.png">/ </picture>
-
-
