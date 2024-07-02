@@ -73,18 +73,20 @@
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_push.png" alt="Masīva `push` izmantošanas piemērs." /> 
 </picture>
 
-11### Ar nosacījuma operatora (if) izmantošanu
-<p> Nosacījuma operarora `if` izmantošanas piemērs. </p>
+111### Ar nosacījuma operatora (if) izmantošanu
+<p> Nosacījuma operarora `if` izmantošanas piemērs no vietnes https://genially.com. </p>
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/if3.png" alt="Nosacījuma operatora `if` izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/nosac%C4%ABjuma%20operators_if_1.png" alt="Nosacījuma operatora `if` izmantošanas piemērs." /> 
 </picture>
 
 111### Ar pārslēgšanas operatora (switch) izmantošanu
-<p> Pārslēgšanas operarora `switch` izmantošanas piemērs. </p>
+<p> Pārslēgšanas operarora `switch` izmantošanas piemēri. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
 </picture>
-
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/p%C4%81rsl%C4%93g%C5%A1anas%20operators_switch%20.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
+</picture>
 
 111### Ar cikla operatora (for) izmantošanu
 <p> Cikla operarora `for` izmantošanas piemērs. </p>
@@ -94,12 +96,14 @@
 
 
 
-11### Ar funkcijas definēšanu (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})
-<p> Funkcijas definēšanas (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...}) izmantošanas piemērs. </p>
+111### Ar funkcijas definēšanu (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})
+<p> Funkcijas definēšanas (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...}) izmantošanas piemēri no vietnes http://genially.com. </p>
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch.png" alt="Funkcijas definēšana (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/function_return_1.png" alt="Funkcijas definēšana (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})." /> 
 </picture>
-
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/function_return.png" alt="Funkcijas definēšana (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})." /> 
+</picture>
 
 
 111### Ar funkcijas definēšanu (anonīma funkcija)
