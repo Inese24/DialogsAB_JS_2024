@@ -56,7 +56,10 @@ function appendProtocolQSP(url) {
 
 }
 function appendScript(url, async, defer) {
-    let s = document.createElement("script"); s.type = "text/javascript"; const w = window.trustedTypesURLValidation; s.src = appendProtocolQSP(w ? w(url, "bundleUrlPolicy") : url); if (async) {
+    let s = document.createElement("script"); s.type = "text/javascript";
+    const w = window.trustedTypesURLValidation;
+    s.src = appendProtocolQSP(w ? w(url, "bundleUrlPolicy") : url);
+    if (async) {
         s.async = true;
     }
     if (defer) {
@@ -74,10 +77,16 @@ function appendScript(url, async, defer) {
         var i = t[o]; if (void 0 !== i) return i.exports; var r = t[o] = { exports: {} }; return e[o](r, r.exports, n), r.exports
     }
     function o(e) {
-        if ("undefined" == typeof window || !window.document || window.isRenderServiceEnv) return; const t = window.trustedTypes; if (!t || !t.createPolicy) return; const n = window.trustedTypePolicies || (window.trustedTypePolicies = {}); if (n[e]) return n[e]; const o = t.createPolicy(e, {
+        if ("undefined" == typeof window || !window.document || window.isRenderServiceEnv) return; 
+        const t = window.trustedTypes; if (!t || !t.createPolicy) return; 
+        const n = window.trustedTypePolicies || (window.trustedTypePolicies = {}); 
+        if (n[e]) return n[e]; const o = t.createPolicy(e, {
             createScriptURL: e => {
                 const t = function (e) {
-                    const t = ["ntp.msn.com", "ntp.msn.cn", "assets.msn.cn", "assets.msn.com", "www.bing.com", "assets2.msn.com", "assets2.msn.cn", "www.clarity.ms", "int.msn.com", "r.bing.com", "business.bing.com", "staticview.msn.com", "staticview.msn.cn", document.location.hostname]; let n; try {
+                    const t = ["ntp.msn.com", "ntp.msn.cn", "assets.msn.cn", "assets.msn.com", 
+                        "www.bing.com", "assets2.msn.com", "assets2.msn.cn", "www.clarity.ms", 
+                        "int.msn.com", "r.bing.com", "business.bing.com", "staticview.msn.com", 
+                        "staticview.msn.cn", document.location.hostname]; let n; try {
                         n = new URL(e, location.origin)
                     }
                     catch (e) {
@@ -119,46 +128,46 @@ const ee = "feed/personalize/settings"; function te(e, t) {
     const i = o[2];
     return decodeURIComponent(i.replace(/\+/g, " ")) || ""
 }
-let ne = new class 
+let ne = new class
 
 
 
 
-// setTimeout
-    
+    // setTimeout
+
     document.head.appendChild(dn), (() => {
-            try {
-                if ("hidden" === document.visibilityState && new URLSearchParams(location.search).has("prerender")) return;
-                ((/^f:\s*([^;]+)/i.exec(document.head.dataset.info) || {
-                })
-                [1] || "").toLowerCase().split(", ").includes("prg- sent - early - log") && f("Early Log - No Alert", 19018, {
-                    timeToSendEarlyLog: performance.now()
-                }
-                    , g.NoAlert)
-            } catch (e) { }
-        })(),
-            window.onErrorHandler = en, void 0 !== window.onunhandledrejection && (window.onunhandledrejection = rn),
-            window.onerror = tn, window.trustedTypesURLValidation = C,
-            function (e = ["vendors", "common", "microsoft"], t = "Error when loading bundle(s): ", n = 5e5, o, i) {
-                Vt().then((() => {
-                    setTimeout((() => {
-                        const n = window.webpackJsonp; if (n) {
-                            const r = n.length, s = e.length + 1; if (r < s) {
-                                if (r === s - 1) e = ["experience"]; else {
-                                    n.slice(0, s).forEach((t => {
-                                        t.length && t[0][0] && e.splice(e.indexOf(t[0][0]), 1)
-                                    }))
-                                }
-                                jt(20202), f(t + e.toString(), 20202, {}), i && (jt(o), i(o, {
-                                    customMessage: e.toString()
-
+        try {
+            if ("hidden" === document.visibilityState && new URLSearchParams(location.search).has("prerender")) return;
+            ((/^f:\s*([^;]+)/i.exec(document.head.dataset.info) || {
+            })
+            [1] || "").toLowerCase().split(", ").includes("prg- sent - early - log") && f("Early Log - No Alert", 19018, {
+                timeToSendEarlyLog: performance.now()
+            }
+                , g.NoAlert)
+        } catch (e) { }
+    })(),
+        window.onErrorHandler = en, void 0 !== window.onunhandledrejection && (window.onunhandledrejection = rn),
+        window.onerror = tn, window.trustedTypesURLValidation = C,
+        function (e = ["vendors", "common", "microsoft"], t = "Error when loading bundle(s): ", n = 5e5, o, i) {
+            Vt().then((() => {
+                setTimeout((() => {
+                    const n = window.webpackJsonp; if (n) {
+                        const r = n.length, s = e.length + 1; if (r < s) {
+                            if (r === s - 1) e = ["experience"]; else {
+                                n.slice(0, s).forEach((t => {
+                                    t.length && t[0][0] && e.splice(e.indexOf(t[0][0]), 1)
                                 }))
                             }
+                            jt(20202), f(t + e.toString(), 20202, {}), i && (jt(o), i(o, {
+                                customMessage: e.toString()
+
+                            }))
                         }
-                    }),
-                        n)
-                }))
-            }
-                (["vendors", "common", "microsoft"], "Error when loading bundle(s): ", 5e5, 19003, ((e, t) => {
-                    Zt(e, t)
-                }));
+                    }
+                }),
+                    n)
+            }))
+        }
+            (["vendors", "common", "microsoft"], "Error when loading bundle(s): ", 5e5, 19003, ((e, t) => {
+                Zt(e, t)
+            }));
