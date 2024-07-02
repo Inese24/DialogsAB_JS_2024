@@ -79,15 +79,35 @@
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/if3.png" alt="Nosacījuma operatora `if` izmantošanas piemērs." /> 
 </picture>
 
-### Ar pārslēgšanas operatora (switch) izmantošanu
+111### Ar pārslēgšanas operatora (switch) izmantošanu
 <p> Pārslēgšanas operarora `switch` izmantošanas piemērs. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
 </picture>
 
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch_1.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
+
+111### Ar cikla operatora (for) izmantošanu
+<p> Cikla operarora `for` izmantošanas piemērs. </p>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/cikla%20operators_for2.png" alt="Cikla operatora `for` izmantošanas piemērs." /> 
 </picture>
 
+
+111### Ar funkcijas definēšanas (anonīma funkcija) izmantošanu
+<p> Funkcijas definēšanas (anonīma funkcija) izmantošanas piemērs no vietnes https://genially.com. </p>
 <picture>
-<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160963&authkey=%21AMLfC8P8lbmRbj0&width=1168&height=124" width="1168" height="124" />
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas%20defin%C4%93%C5%A1ana%20un%20pie%C5%A1%C4%B7ir%C5%A1ana.jpg" alt="unkcijas definēšanas (anonīma funkcija) izmantošanas piemērs." /> 
+</picture>
+
+
+111### Ar funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) izmantošanu
+<p> Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) izmantošanas piemērs no vietnes https://genially.com. </p>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas%20defin%C4%93%C5%A1ana%20un%20pie%C5%A1%C4%B7ir%C5%A1ana.jpg" alt="Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) izmantošanas piemērs." /> 
+</picture>
+
+111### Ar funkcijas definēšanas (`=>` paņēmienu) izmantošanu
+<p> Funkcijas definēšanas (`=>` paņēmienu) izmantošanas piemērs no vietnes https://genially.com.  </p>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas%20defin%C4%93%C5%A1ana%20un%20pie%C5%A1%C4%B7ir%C5%A1ana.jpg" alt="Funkcijas definēšanas (`=>` paņēmienu). " /> 
 </picture>
