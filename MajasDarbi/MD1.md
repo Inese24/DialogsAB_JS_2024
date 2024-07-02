@@ -42,9 +42,6 @@
 <img alt= "Masīva izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png">
 </picture>
 
-<picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/var_value1.png" alt="Masīva izmantošanas piemērs." /> 
-</picture>
 
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivi.png" alt="Masīva izmantošanas piemērs." /> 
