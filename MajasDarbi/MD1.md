@@ -23,19 +23,19 @@
 </picture>
 
 * Mainīgā`const` izmantošanas piemēri
+<p> Mainīgā `const` izmantošanas piemērs no vietnes https://genially.com. <br>
+Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, `v` un `k` un šo mainīgo vērtībām `223300`, `223301`, `223306` un `223307`.   </p>
 <picture>
-<img src="https://onedrive.live.com/embed?resid=6F4194188FEAE4F1%2160965&authkey=%21APAPNBKomwaZtYU&width=739&height=37" width="739" height="37" alt="Mainīgā const izmantošanas piemērs." />
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/main%C4%ABgais_const_(number).png" alt="Mainīgā const izmantošana." />
 </picture>
 
-<picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const1.png" alt="Mainīgā const izmantošanas piemērs." />
-</picture>
+
 
  <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const_1.png" alt="Mainīgā `var` izmantošanas piemērs." /> 
 </picture>
 
-### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
+1111  ### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
 * Masīva izmantošanas piemērs
 <p> Piemēri no vietnes https://www.msn.com/en-xl </p>
 <picture>
@@ -43,84 +43,98 @@
 </picture>
 
 
-<picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivi.png" alt="Masīva izmantošanas piemērs." /> 
-</picture>
 
 
-<p> Masīva `find` izmantošanas piemērs. </p>
+<p> ??????? Masīva `find` izmantošanas piemērs. </p>
 <picture>
 <img src="https://github.com/Inese24/DialogsAB_JS_2024/blob/main/MajasDarbi/Images/MajasDarbi_01/masivs_find.png?raw=true" alt="Masīva `find` izmantošanas piemērs." /> 
 </picture>
 
-<p> Masīva `forEach` izmantošanas piemērs. </p>
+<p> ???????? Masīva `forEach` izmantošanas piemērs. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_forEach.png" alt="Masīva `forEach` izmantošanas piemērs." /> 
 </picture>
 
-<p> Masīva `includes` izmantošanas piemērs. </p>
+<p> ?????? Masīva `includes` izmantošanas piemērs. </p>
 <picture>
 <img src="https://github.com/Inese24/DialogsAB_JS_2024/blob/main/MajasDarbi/Images/MajasDarbi_01/masivs_includes_2.png?raw=true" alt="Masīva `includes` izmantošanas piemērs." /> 
 </picture>
 
-<p> Masīva `map` izmantošanas piemērs. </p>
+<p> ?????? Masīva `map` izmantošanas piemērs. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_map.png" alt="Masīva `map` izmantošanas piemērs." /> 
 </picture>
 
-<p> Masīva `push` izmantošanas piemērs. </p>
+<p> ????? Masīva `push` izmantošanas piemērs. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_push.png" alt="Masīva `push` izmantošanas piemērs." /> 
 </picture>
-
-111### Ar nosacījuma operatora (if) izmantošanu
+<br>
+<br>
+### Ar nosacījuma operatora (if) izmantošanu
 <p> Nosacījuma operarora `if` izmantošanas piemērs no vietnes https://genially.com. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/nosac%C4%ABjuma%20operators_if_1.png" alt="Nosacījuma operatora `if` izmantošanas piemērs." /> 
 </picture>
 
-111### Ar pārslēgšanas operatora (switch) izmantošanu
+### Ar pārslēgšanas operatora (switch) izmantošanu
 <p> Pārslēgšanas operarora `switch` izmantošanas piemēri. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/switch.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
 </picture>
+
+<br>
+
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/p%C4%81rsl%C4%93g%C5%A1anas%20operators_switch%20.png" alt="Pārslēgšanas operatora `switch` izmantošanas piemērs." /> 
 </picture>
 
-111### Ar cikla operatora (for) izmantošanu
-<p> Cikla operarora `for` izmantošanas piemērs. </p>
+### Ar cikla operatora (for) izmantošanu
+<p> Cikla operatora `for` izmantošanas piemērs. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/cikla%20operators_for2.png" alt="Cikla operatora `for` izmantošana." /> 
 </picture>
 
 
+11 ???? ### Ar cikla operatora (`while`) izmantošanu
 
-111### Ar funkcijas definēšanu (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})
+
+### Ar funkcijas definēšanu (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})
 <p> Funkcijas definēšanas (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...}) izmantošanas piemēri no vietnes http://genially.com. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/function_return_1.png" alt="Funkcijas definēšana (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})." /> 
 </picture>
+<br>
+
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/function_return.png" alt="Funkcijas definēšana (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})." /> 
 </picture>
 
 
-111### Ar funkcijas definēšanu (anonīma funkcija)
+### Ar funkcijas definēšanu (anonīma funkcija)
 <p> Funkcijas definēšanas (anonīma funkcija) izmantošanas piemērs no vietnes https://genially.com. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/anon%C4%ABma%20funkcija4.png" alt="Funkcijas definēšana (anonīma funkcija)." /> 
 </picture>
 
 
-111### Ar funkcijas definēšanu (anonīmas funkcijas nosaukšana ar piešķiršanu)
+### Ar funkcijas definēšanu (anonīmas funkcijas nosaukšana ar piešķiršanu)
 <p> Funkcijas definēšanas (anonīmas funkcijas nosaukšana ar piešķiršanu) izmantošanas piemērs no vietnes https://genially.com. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas%20defin%C4%93%C5%A1ana%20un%20pie%C5%A1%C4%B7ir%C5%A1ana.jpg" alt="Funkcijas definēšana (anonīmas funkcijas nosaukšana ar piešķiršanu)." /> 
 </picture>
 
-111### Ar funkcijas definēšanu (`=>` paņēmienu)
+
+### Ar funkcijas definēšanu (`=>` paņēmienu)
 <p> Funkcijas definēšanas (`=>` paņēmienu) izmantošanas piemērs no vietnes https://genially.com.  </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas%20defin%C4%93%C5%A1ana%20ar.png" alt="Funkcijas definēšanu (`=>` paņēmienu). " /> 
 </picture>
+
+
+111 ### Ar funkcijas izsaukšanu (darbināšanu)
+
+
+<br>
+<br>
+111 ### Ar pagaidu papildu references izveidošanu eksistējošam objektam - kompaktākai rakstīšanai
