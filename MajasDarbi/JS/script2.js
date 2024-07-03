@@ -211,3 +211,64 @@ var inxBX = window.inxBX || {
 var x =
     window[i + '_pdata'] = window[i + '_pdata'] || [];
 x[x.length] = arguments;
+
+
+
+
+removeSubstringKeys(e){
+    if (!this.supported || !e) return; const t = []; for (let n = 0; n < this.storage.length; n++) {
+        const o = this.key(n); o && o.includes(e) && t.push(o)
+    }
+    for (let e = 0; e < t.length; e++)this.removeItem(t[e])
+}
+
+function ie() {
+    return re
+}
+let re = new class extends oe {
+    constructor() {
+        let e = null; if (A()) try {
+            e = localStorage
+        }
+            catch (e) { } super(e)
+    }
+};
+const se = "1s-tokens"; var ae; let ce, le; function de() {
+    return ce = pe(), ce && ce.accessToken ? ce : void 0
+}
+function ue() {
+    if (ce = pe(), !ce) return "notAvailable"; const e = ce.expiresOn,
+        t = new Date(e),
+        n = "expired"; if (!t.getTime()) return n; return t > new Date ? "valid" : n
+} function pe()
+
+
+
+const o = t.createPolicy(e, {
+    createScriptURL: e => {
+        const t = function (e) {
+            const t = ["ntp.msn.com",
+                "ntp.msn.cn",
+                "assets.msn.cn",
+                "assets.msn.com",
+                "www.bing.com",
+                "assets2.msn.com",
+                "assets2.msn.cn",
+                "www.clarity.ms",
+                "int.msn.com",
+                "r.bing.com",
+                "business.bing.com",
+                "staticview.msn.com",
+                "staticview.msn.cn",
+                document.location.hostname]; let n; try {
+                    n = new URL(e, location.origin)
+                }
+            catch (e) {
+                return "about:blank#error"
+            }
+            if (n.hostname && !t.includes(n.hostname)) return "about:blank#error"; return e
+        }
+            (e); return t
+    }
+});
+return n[e] = o, o
