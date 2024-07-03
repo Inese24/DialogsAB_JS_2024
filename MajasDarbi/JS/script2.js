@@ -77,18 +77,18 @@ function appendScript(url, async, defer) {
         var i = t[o]; if (void 0 !== i) return i.exports; var r = t[o] = { exports: {} }; return e[o](r, r.exports, n), r.exports
     }
     function o(e) {
-        if ("undefined" == typeof window || !window.document || window.isRenderServiceEnv) return; 
-        const t = window.trustedTypes; if (!t || !t.createPolicy) return; 
-        const n = window.trustedTypePolicies || (window.trustedTypePolicies = {}); 
+        if ("undefined" == typeof window || !window.document || window.isRenderServiceEnv) return;
+        const t = window.trustedTypes; if (!t || !t.createPolicy) return;
+        const n = window.trustedTypePolicies || (window.trustedTypePolicies = {});
         if (n[e]) return n[e]; const o = t.createPolicy(e, {
             createScriptURL: e => {
                 const t = function (e) {
-                    const t = ["ntp.msn.com", "ntp.msn.cn", "assets.msn.cn", "assets.msn.com", 
-                        "www.bing.com", "assets2.msn.com", "assets2.msn.cn", "www.clarity.ms", 
-                        "int.msn.com", "r.bing.com", "business.bing.com", "staticview.msn.com", 
+                    const t = ["ntp.msn.com", "ntp.msn.cn", "assets.msn.cn", "assets.msn.com",
+                        "www.bing.com", "assets2.msn.com", "assets2.msn.cn", "www.clarity.ms",
+                        "int.msn.com", "r.bing.com", "business.bing.com", "staticview.msn.com",
                         "staticview.msn.cn", document.location.hostname]; let n; try {
-                        n = new URL(e, location.origin)
-                    }
+                            n = new URL(e, location.origin)
+                        }
                     catch (e) {
                         return "about:blank#error"
                     }
@@ -171,3 +171,43 @@ let ne = new class
             (["vendors", "common", "microsoft"], "Error when loading bundle(s): ", 5e5, 19003, ((e, t) => {
                 Zt(e, t)
             }));
+
+
+// Masīvs ar forEach          
+e.forEach(function (e) {
+    var t = e.match(/([\d,]+)/g);
+    t && i.push(t.join('-'));
+};
+
+// if - else   tele2.lv
+if (path[3] === "biznesam" || path[4] === "biznes") {
+    $("#leads_2023 .col2 .tab-switch.ins .tab-ins[data-item='b2b']").click();
+} else if (path[3] === "televizija" || path[3] === "internets" || path[3] === "tikla-kvalitate" ||
+    path[4] === "televizija" || path[4] === "internet" || path[4] === "tikla-kvalitate") {
+    $("#leads_2023 .col2 .tab-switch.ins .tab-ins[data-item='mbb']").click();
+} else {
+    $("#leads_2023 .col2 .tab-switch.ins .tab-ins[data-item='b2c']").click();
+};
+
+
+
+
+//Pagaidu papildu references izveidošana eksistējošam objektam - kompaktākai rakstīšanai. https://inbox.lv
+var inxBX = window.inxBX || {
+    config: {
+        "emiter": "b.adbox.lv",
+        "id": "668358469e5ad8ba1",
+        "u": "0",
+        "d": 2,
+        "lang": "lv",
+        "l": "0",
+        "g": "1"
+    },
+    queue: [],
+    placement: function (q) { this.queue.push(q); }
+};
+
+//Masīvs ar length.  https://inbox.lv
+var x =
+    window[i + '_pdata'] = window[i + '_pdata'] || [];
+x[x.length] = arguments;
