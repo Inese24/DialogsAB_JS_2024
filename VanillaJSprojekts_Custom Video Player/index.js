@@ -63,3 +63,26 @@ video.addEventListener("timeupdate", updateProgress);
 play.addEventListener("click", toggleVideoStatus);
 stop.addEventListener("click", stopVideo);
 progress.addEventListener("change", setVideoProgress);
+
+
+
+<script>
+    const video1 = document.getElementById('video1');
+    const video2 = document.getElementById('video2');
+
+    video1.addEventListener('timeupdate', () => {
+        if (video1.currentTime >= 35 && video1.currentTime <= 40) {
+            video1.style.opacity = 1 - (video1.currentTime - 35) / 5;
+            video2.style.opacity = (video1.currentTime - 35) / 5;
+            if (video2.paused) {
+                video2.currentTime = video1.currentTime - 35;
+                video2.play();
+            }
+        }
+    });
+
+    video1.addEventListener('ended', () => {
+        video2.play();
+    });
+</script>
+
