@@ -71,11 +71,11 @@ progress.addEventListener("change", setVideoProgress);
     const video2 = document.getElementById('video2');
 
     video1.addEventListener('timeupdate', () => {
-        if (video1.currentTime >= 35 && video1.currentTime <= 40) {
-            video1.style.opacity = 1 - (video1.currentTime - 35) / 5;
-            video2.style.opacity = (video1.currentTime - 35) / 5;
+        if (video1.currentTime >= 53 && video1.currentTime <= 58) {
+            video1.style.opacity = 1 - (video1.currentTime - 53) / 5;
+            video2.style.opacity = (video1.currentTime - 51) / 5;
             if (video2.paused) {
-                video2.currentTime = video1.currentTime - 35;
+                video2.currentTime = video1.currentTime - 51;
                 video2.play();
             }
         }
