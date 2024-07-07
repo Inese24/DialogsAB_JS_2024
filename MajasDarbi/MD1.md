@@ -39,7 +39,7 @@ Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, 
 <br>
 <br>
 
-1111  ### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
+### Ar masīvu izmantošanu. Vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
 * Masīva izmantošanas piemērs
 <p> Piemēri no vietnes https://www.msn.com/en-xl </p>
 <picture>
