@@ -16,11 +16,13 @@
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/mainigais_var.png" alt="Mainīgā `var` izmantošanas piemērs." /> 
 </picture>
 <br>
+<br>
 
 * Mainīgā `let` izmantošanas piemērs
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/let1.png" alt="Mainīgā let izmantošanas piemērs." />
 </picture>
+<br>
 <br>
 
 * Mainīgā`const` izmantošanas piemēri
@@ -30,7 +32,7 @@ Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, 
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/main%C4%ABgais_const_(number).png" alt="Mainīgā const izmantošana." />
 </picture>
 <br>
-
+<br>
  <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/const_1.png" alt="Mainīgā `var` izmantošanas piemērs." /> 
 </picture>
@@ -44,27 +46,35 @@ Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, 
 <img alt= "Masīva izmantošanas piemērs." src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/53441c98b54b54f931815dbd057b4ee93d6757b8/MajasDarbi/Images/MajasDarbi_01/masivi1.png">
 </picture>
 <br>
-
+<br>
 <p> `length` masīva metodes izmantošanas piemērs no vietnes https://inbox.lv/. </p>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_length.png" alt="`length` masīva metodes izmantošanas piemērs." /> 
 </picture>
 <br>
-<p> ???????? Masīva `forEach` izmantošanas piemērs. </p>
+<br>
+<p> Masīva metodes izmantošanas piemērs no vietnes https://medium.com/@ayshaismail021/exploring-javascript-array-methods-map-foreach-filter-find-ffa303c07578. </p>
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_forEach.png" alt="Masīva `forEach` izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_2.png" alt="Masīva metodes izmantošanas piemērs." /> 
 </picture>
 <br>
-
-
-<p> ?????? Masīva `map` izmantošanas piemērs. </p>
+<br>
+<p>Masīva `find` izmantošanas piemērs no vietnes https://medium.com/@ayshaismail021/exploring-javascript-array-methods-map-foreach-filter-find-ffa303c07578. </p>
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_map.png" alt="Masīva `map` izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_4.png" alt="Masīva `find` izmantošanas piemērs." /> 
 </picture>
 <br>
-<p> ????? Masīva `push` izmantošanas piemērs. </p>
+<br>
+<p> Masīva `forEach izmantošanas piemērs no vietnes https://medium.com/@ayshaismail021/exploring-javascript-array-methods-map-foreach-filter-find-ffa303c07578. </p>
 <picture>
-<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_push.png" alt="Masīva `push` izmantošanas piemērs." /> 
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/masivs_5.png" alt="Masīva `foreach` izmantošanas piemērs." /> 
+</picture>
+<br>
+<br>
+
+<p> Masīva `map izmantošanas piemērs no vietnes https://medium.com/@ayshaismail021/exploring-javascript-array-methods-map-foreach-filter-find-ffa303c07578. </p>
+<picture>
+<img src="https://github.com/Inese24/DialogsAB_JS_2024/blob/main/MajasDarbi/Images/MajasDarbi_01/masivs_map.png?raw=true" alt="Masīva `map` izmantošanas piemērs." /> 
 </picture>
 <br>
 <br>
@@ -117,7 +127,7 @@ Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, 
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/function_return_1.png" alt="Funkcijas definēšana (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})." /> 
 </picture>
 <br>
-
+<br>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/function_return.png" alt="Funkcijas definēšana (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...})." /> 
 </picture>
@@ -153,6 +163,7 @@ Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, 
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas_izsauksana_darbinasana.png" alt="Funkcijas izsaukšanas (darbināšanas) piemērs. " /> 
 </picture>
+<br>
 <br>
 <picture>
 <img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas_izsauksana_darbinasana_1.png" alt="Funkcijas izsaukšanas (darbināšanas) piemērs. " /> 
