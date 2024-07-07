@@ -98,7 +98,16 @@ Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, 
 <br>
 <br>
 
-11 ???? ### Ar cikla operatora (`while`) izmantošanu
+### Ar cikla operatora (`while`) izmantošanu
+<p> Cikla operatora `while` izmantošanas piemēri no vietnes https://javascript.info/while-for  </p>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/cikla%20operators_while.png" alt="Cikla operatora `while` izmantošana." /> 
+</picture>
+<br>
+<br>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/cikla%20operators_while_1.png" alt="Cikla operatora `while` izmantošana." /> 
+</picture>
 <br>
 <br>
 
@@ -139,9 +148,15 @@ Mainīgā `const` deklarācija ar vairākiem konstantiem mainīgajiem `y`, `b`, 
 <br>
 <br>
 
-111 ### Ar funkcijas izsaukšanu (darbināšanu)
-
-
+### Ar funkcijas izsaukšanu (darbināšanu)
+<p> Funkcijas izsaukšanas (darbināšanas) piemēri no vietnes https://clouddevs.com/javascript/guide-to-functions/.  </p>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas_izsauksana_darbinasana.png" alt="Funkcijas izsaukšanas (darbināšanas) piemērs. " /> 
+</picture>
+<br>
+<picture>
+<img src="https://raw.githubusercontent.com/Inese24/DialogsAB_JS_2024/main/MajasDarbi/Images/MajasDarbi_01/funkcijas_izsauksana_darbinasana_1.png" alt="Funkcijas izsaukšanas (darbināšanas) piemērs. " /> 
+</picture>
 <br>
 <br>
 

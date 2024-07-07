@@ -17,7 +17,7 @@
                 <p>Otherwise, please read on.</p>
             </div></div>
         <h2><a class="main__anchor" name="the-while-loop" href="#the-while-loop">The “while” loop</a></h2><p>The <code>while</code> loop has the following syntax:</p>
-        <div id="330hf18s0c" data-trusted="1" class="code-example">
+        <div id="330hf18s0c" data-tr
             <div class="codebox code-example__codebox">
 
                 <div class="codebox__code" data-code="1">
@@ -918,3 +918,17 @@ function greet() {
 
 setTimeout(greet, 2000);  // Calls greet after 2 seconds
 ```
+
+
+
+
+const colors = ['red', 'green', 'blue'];\ncolors.forEach(color =\u003E console.log(color));
+
+
+
+
+
+
+
+
+
