@@ -4,7 +4,14 @@ const stop = document.getElementById('stop');
 const progress = document.getElementById('progress');
 const timestamp = document.getElementById('timestamp');
 
-// Play & pause video
+// Play & pause video. Video atskaņošana un pauzēšana. 
+// Funkcija pārbauda, vai video ir pauzēts? un vai video tiek atskaņots vai pauzēts?
+// Nosacījuma operators `if...else` - pārbauda, vai video ir pauzēts un maina tā stāvokli.
+// Ja `if` nosacījums `video.paused` ir patiess (true), tad tiek izpildīts koda fragments `video.play`.
+// Ja `if` nosacījums `video.paused` nav patiess (false), tad atslēgvārds `else` norāda, ka tiks izpildīts koda fragments `video.pause` - video tiks pauzēts.
+// Ja `if` nosacījums `video.paused` ir patiess (true), tad `else` izpilda koda fragmentu `video.play` - video tiek atskaņots.
+
+
 function toggleVideoStatus() {
   if (video.paused) {
     video.play();
