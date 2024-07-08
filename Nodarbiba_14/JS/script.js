@@ -40,4 +40,3 @@ function display(cookie_name, cookie_value, cookie_expire_time_sec) {
   }
   console.log(document.cookie);
 }
-*/
