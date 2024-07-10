@@ -55,7 +55,7 @@ function updateProgress() {
 }
 
 // Set video time to progress. Video progresa laika iestatīšana
-/* `function setVideoprogress` iestata pašreizējo viedeo atskaņošanas laiku, pamatojoties uz progresa joslas vērtību.
+/* `function setVideoprogress` iestata pašreizējo video atskaņošanas laiku, pamatojoties uz progresa joslas vērtību.
   Tā lietotājam tiek ļauts mainīt video atskaņošanas pozīciju, velkot progresa joslu.   
 */
 function setVideoProgress() {
