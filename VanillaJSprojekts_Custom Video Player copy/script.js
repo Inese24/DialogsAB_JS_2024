@@ -34,14 +34,14 @@ function updatePlayIcon() {
 // Update progress & timestamp. Atjaunināšanas progress un laika zīmogs. 
 /* `function updateProgress` atjaunina progresa joslu un laika zīmogu.
    `progress.value` tiek iestatīta pamatojoties uz attiecību starp pašreizējo laiku un video ilgumu. 
-   Laika zōmogs tiek formatēts minūtēs un sekundēs.
+   Laika zīmogs tiek formatēts minūtēs un sekundēs.
 */
 function updateProgress() {
   progress.value = (video.currentTime / video.duration) * 100;
 
   // Get the minutes
   let mins = Math.floor(video.currentTime / 60);
-  if(mins < 10) {
+  if(mins < video.duration){
     mins = '0' + String(mins);
   }
 

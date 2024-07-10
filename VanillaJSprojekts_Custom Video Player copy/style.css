@@ -19,24 +19,31 @@ h1 {
   color: #153ab5;
 }
 
+
+/* Kodā pievienoju ekrāna paltuma vērtību - width: 60%. 
+   Pievienoju ekrāna apmales labo un kreiso apakšdaļas, noapaļojot stūrus par 20px. */
 .screen {
   cursor: pointer;
   width: 60%;
   background-color: #2d4bd257 !important;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
+
+/* Pielāgoju progresa joslas platuma attiecību pret Video atskaņotāja ekrāna izmēriem, platumu - width: 60% samazināju līdz 30%  */
 
 .controls {
   background: #2196f3;
   color: #170389;
-  width: 60%;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
+  width: 30%;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 10px;
 }
 
 .controls .btn {
